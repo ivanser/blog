@@ -25,7 +25,7 @@ SECRET_KEY = 'wto#sf+5d$2ey*vd_9va_!1h&zk#_u!l_-69f%l7h3*$xb_qw*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ivanser.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ivanser.pythonanywhere.com', 'www.nserekoivan.com']
 
 
 # Application definition
